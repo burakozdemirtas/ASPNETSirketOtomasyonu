@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/burakozdemirtas/ASPNETSirketOtomasyonu/assets/33163650/5b5105b2-56a0-4684-8c0e-561641ddc98e" width="160" height="160">
+<img src="https://github.com/burakozdemirtas/ASPNETSirketOtomasyonu/assets/33163650/2357380b-fe2c-4424-a0ac-332a5c3366cc" width="160" height="160">
 </div>
 
 <h1 align="center"> ASP.NET ŞİRKET OTOMASYONU - ASP.NET COMPANY AUTOMATION</h1>
