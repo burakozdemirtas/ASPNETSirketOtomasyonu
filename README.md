@@ -141,18 +141,18 @@ Bu alanda kısaca bazı sayfaların ekran fotoğraflarını sizlere aktarmaya ç
 We have attempted to provide screenshots of some pages in this area. You can download our project to see them in their entirety.
 </p>
 <div align="center">
- <img src="https://github.com/burakozdemirtas/ASPNETSirketOtomasyonu/assets/33163650/0b23d5cd-bcc2-47cf-874e-d01acccfc660" >
+  <img src="https://github.com/burakozdemirtas/ASPNETSirketOtomasyonu/assets/33163650/67eb3723-0637-446d-b016-8f6f7cebd1cc">
 <hr>
-<img src="https://github.com/burakozdemirtas/ASPNETSirketOtomasyonu/assets/33163650/e609e602-1654-4419-a71a-f3f9ddaf1ae5" >
+  <img src="https://github.com/burakozdemirtas/ASPNETSirketOtomasyonu/assets/33163650/ad360ae0-39d5-42f5-908c-352110c63e96">
 <hr>
-<img src="https://github.com/burakozdemirtas/ASPNETSirketOtomasyonu/assets/33163650/a649c6a8-6bee-434e-8335-33f6179d7c16" >
+  <img src="https://github.com/burakozdemirtas/ASPNETSirketOtomasyonu/assets/33163650/4b00723c-b87e-4cd1-a846-743c924d23ad">
 <hr>
-<img src="https://github.com/burakozdemirtas/ASPNETSirketOtomasyonu/assets/33163650/b0523e25-3b93-4a33-8c35-52f20193d0c8" >
+  <img src="https://github.com/burakozdemirtas/ASPNETSirketOtomasyonu/assets/33163650/f2f00037-f066-4c7b-9770-3369fbb8b849">
 <hr>
-<img src="https://github.com/burakozdemirtas/ASPNETSirketOtomasyonu/assets/33163650/236d4e98-f7d4-4f4c-8d0e-59748b6a0702" >
+  <img src="https://github.com/burakozdemirtas/ASPNETSirketOtomasyonu/assets/33163650/0fa5683c-edb2-4aae-8d21-f897cdcf2fa7">
 <hr>
-<img src="https://github.com/burakozdemirtas/ASPNETSirketOtomasyonu/assets/33163650/2cb56d91-7895-45b6-a413-24a9bea1fa4c" >
+  <img src="https://github.com/burakozdemirtas/ASPNETSirketOtomasyonu/assets/33163650/383fb214-feb0-47f6-b363-eb8aff5d7be1">
 <hr>
-<img src="https://github.com/burakozdemirtas/ASPNETSirketOtomasyonu/assets/33163650/79843b50-afe3-43db-9f9f-3424a8444998" >
+  <img src="https://github.com/burakozdemirtas/ASPNETSirketOtomasyonu/assets/33163650/94eba27f-271f-47d6-a6fe-c7ca217bdaff">
 </div>
 
